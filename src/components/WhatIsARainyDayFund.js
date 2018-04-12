@@ -7,7 +7,7 @@ const WhatIsARainyDayFund = () =>  {
 
     return (
         <div id="WhatIsARainyDayFund">
-		   <h1>What is a Rainy Day Fund?</h1>
+		   <h1>Save FRWD</h1>
 
 		 
 		   <h3>
