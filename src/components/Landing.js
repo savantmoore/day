@@ -12,7 +12,7 @@ const Landing = () =>  {
             <h6>If you save 14% of your income you will be a millionaire by 65
             </h6>
             <Button className="nav-btn">
-            	<Link className="link" to="what-is-a-rainy-day-fund">I understand - take me to the app</Link>
+            	<Link className="link" to="what-is-a-rainy-day-fund">I will become a financial athlete</Link>
             </Button>
           </Jumbotron>
         </Grid>
