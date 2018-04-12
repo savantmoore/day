@@ -11,10 +11,10 @@ const WhatIsARainyDayFund = () =>  {
 
 		 
 		   <h3>
-				This app has 3 steps.<br/><br/>
-				1. Income.<br/><br/>
-				2. Expenses.<br/><br/>
-				3. Savings Plan.<br/><br/>
+				Today is your first step towards maintained wealth<br/><br/>
+				1. Spend less than you earn.<br/><br/>
+				2. After every paycheck, pay yourself first.<br/><br/>
+				3. <a href="https://www.frwdinc.org/" target="_blank" class="social frwd">Subscribe for email list</a><br/><br/>
 		   </h3>
 
 	        <Button className="nav-btn" block>
