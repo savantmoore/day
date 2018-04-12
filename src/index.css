@@ -4,8 +4,11 @@ General
 ====================================*/
 
 #root{
-  background: url(http://www.freeppt.net/background/origami-money-wallpapers-backgrounds-for-powerpoint.jpg);
-  background-repeat: no-repeat; 
+  background: url(http://www.freeppt.net/background/origami-money-wallpapers-backgrounds-for-powerpoint.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
   font-family: 'Titillium Web', sans-serif;
   min-height:100vh;
   padding:2vh 5% 2vh 5%;
