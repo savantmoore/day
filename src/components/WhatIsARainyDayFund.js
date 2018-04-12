@@ -7,14 +7,14 @@ const WhatIsARainyDayFund = () =>  {
 
     return (
         <div id="WhatIsARainyDayFund">
-		   <h1>FRWD APP</h1>
+		   <h1>What is a Rainy Day Fund?</h1>
 
-		   
+		 
+		   <h3>
 				This app has 3 steps.<br/><br/>
 				1. Income.<br/><br/>
 				2. Expenses.<br/><br/>
-				3. Savings Plan.
-				<br/><br/>
+				3. Savings Plan.<br/><br/>
 		   </h3>
 
 	        <Button className="nav-btn" block>
