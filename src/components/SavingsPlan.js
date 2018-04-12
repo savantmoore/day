@@ -11,7 +11,7 @@ const SavingsPlan = ({assumptions, expenses, monthlySavings, handleUpdateMonthly
             return (
                 <div>
                     <h3 className="warning-text">
-                        {assumptions.income === 0 ? `You need to input your income on the Assumptions tab!` : '' }
+                        {assumptions.income === 0 ? `You need to input your income on the Income tab!` : '' }
                     </h3>
                     <h3 className="warning-text">
                         {calcTotalExpenses(expenses) === 0 ? `You need to tally up your expenses on the Expenses tab!` : '' }
