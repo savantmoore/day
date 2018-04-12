@@ -8,10 +8,10 @@ const Menubar = () => {
   return (
           <ButtonGroup id="menu" justified>
             <Button className="menu-btn" href="#">
-            	<Link className="link" to="what-is-a-rainy-day-fund">What is a Rainy Day Fund?</Link>
+            	<Link className="link" to="what-is-a-rainy-day-fund">FRWD APP</Link>
             </Button>
             <Button className="menu-btn" href="#" >
-            	<Link className="link" to="assumptions">Assumptions</Link>
+            	<Link className="link" to="assumptions">Income</Link>
             </Button>
             <Button className="menu-btn" href="#">
             	<Link className="link" to="expenses">Expenses</Link>
